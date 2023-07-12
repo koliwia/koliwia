@@ -34,6 +34,8 @@ I am a Manual Software Tester <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://s4.aconvert.com/convert/p3r68-cdx67/ajfoc-72cxk.svg" title="API" **alt="API" width="40" height="40"/>
   <img src="https://s4.aconvert.com/convert/p3r68-cdx67/a7fl1-g025o.svg" title="Postman" **alt="Postman" width="40" height="40"/>
   <img src="https://s4.aconvert.com/convert/p3r68-cdx67/arfm5-pnksk.svg" title="AzureDevops" **alt="AzureDevOps" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>
+
 
 
 
