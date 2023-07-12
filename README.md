@@ -24,8 +24,8 @@ I am a Manual Software Tester <img src="https://media.giphy.com/media/WUlplcMpOC
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div align="left"
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" title="SQLite" **alt="SQLite" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/88703/api.svg" title="API" **alt="API" width="40" height="40"/>
