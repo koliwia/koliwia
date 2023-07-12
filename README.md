@@ -18,7 +18,7 @@
 I am a Manual Software Tester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 - :telescope: I’m specialised in planning, developing and executing test cases, as well as evaluating and documenting test results. I'm also familiar with API, especially Data-Driven Testing.
 
-- :seedling: I'm currently learning test automation (mostly using Python programming language).
+- :seedling: I'm currently learning test automation (mostly Selenium + Python).
 
 - :zap: In my free time, I watch webinars and read tech articles.
 ---
