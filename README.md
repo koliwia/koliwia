@@ -3,7 +3,38 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRxeW80cmF5ZTFzbzdlYWgxM2dwenZodTM2d2xwaWJmcGdkOXo4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
 </div>
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=koliwia&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+---
+
+### :woman_technologist: About Me :
+I am a Manual Software Tester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.`
+- :telescope: I’m specialised in planning, developing and executing test cases, as well as evaluating and documenting test results. I'm also familiar with API, especially Data-Driven Testing.
+
+- :seedling: I'm currently learning test automation (mostly using Python programming language).
+
+- :zap: In my free time, I watch webinars and read tech articles.
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" title="SQLite" **alt="SQLite" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/88703/api.svg" title="API" **alt="API" width="40" height="40"/>
+
+</div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=koliwia&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koliwia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **koliwia/koliwia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
